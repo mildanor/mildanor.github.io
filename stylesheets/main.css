@@ -1,0 +1,36 @@
+  
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&family=Lato&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Chivo:400,400i,700i,700&display=swap');
+html, body{
+    background: rgb(255,243,240);
+    background: linear-gradient(90deg, rgba(255,243,240,1) 0%, rgba(240,252,255,1) 32%, rgba(227,249,255,1) 100%);
+	color: #7c9191; 
+	font-family: 'Chivo', sans-serif;
+}
+
+body {
+	margin: 0 auto;
+	padding: 4em 20em 2em 20em;
+}
+
+h2 {
+	font-size: 1.25em;
+	padding-bottom: 1em;
+	width: 100%;
+	border-bottom: 1px solid currentColor;
+    font-family: 'Karla', sans-serif
+}
+
+a {
+	color: currentColor;
+	font-style: italic;
+}
+
+h1{
+    font-family: 'Karla', sans-serif; 
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 1200px) {body {padding: 2em 4em 2em 4em;}}
+
+
