@@ -23,6 +23,11 @@ h2 {
     font-family: 'Karla', sans-serif
 }
 
+h3 {
+    font-size: 1.25em; 
+    font-family: 'Karla', sans-serif
+}
+
 a {
 	color: currentColor;
 	font-style: italic;
